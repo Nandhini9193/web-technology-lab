@@ -1,0 +1,33 @@
+body {
+    font-size: 50pt;
+}
+
+table {
+    border: 4px solid purple;
+}
+
+tr:nth-child(odd) {
+    color: red;
+    border: 3px solid black;
+}
+
+tr:nth-child(even) {
+    color: blue;
+}
+
+td,
+th {
+    border: 3px solid black;
+}
+
+.grade-a {
+    color: green;
+}
+
+.grade-b {
+    color: orange;
+}
+
+.grade-c {
+    color: pink;
+}

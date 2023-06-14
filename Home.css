@@ -1,0 +1,18 @@
+#header {
+    height: 100px;
+    background-color: #3bb3d8;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#menuFrame {
+    width: 30%;
+    height: 80%;
+    float: left;
+}
+
+#actualFrame {
+    width: 70%;
+    height: 80%;
+    float: right;
+}
